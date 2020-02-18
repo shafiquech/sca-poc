@@ -13,6 +13,7 @@
     <java.version>1.8</java.version>
   </properties>
   <modules>
+    <module>api-gateway</module>
     <module>sca-integration-service</module>
     <module>sca-persistance-service</module>
     <module>sca-web-service</module>
